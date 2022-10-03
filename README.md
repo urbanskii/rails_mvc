@@ -21,4 +21,4 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+* O fluxo dentro do mvc funciona através das rotas, estas ficam na pasta controllers>users_controller.rb. para criar um novo usuario é o link http://127.0.0.1:3000/users, utilizando o padrão REST.
